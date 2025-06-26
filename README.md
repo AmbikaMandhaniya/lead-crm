@@ -57,8 +57,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
-   cd lead-management-module
+   git clone https://github.com/AmbikaMandhaniya/lead-crm
+   cd lead-crm
    ```
 
 2. **Install dependencies**
